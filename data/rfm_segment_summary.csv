@@ -1,0 +1,5 @@
+segment,customers,avg_recency_days,avg_frequency,total_revenue
+At Risk,910,199.24,10.43,8623867.95
+High Value / Loyal,1012,45.24,11.47,10623387.29
+Low Engagement,1549,230.22,3.83,4982072.31
+New / Promising,1132,46,3.54,3562517.33
