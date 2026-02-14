@@ -22,12 +22,12 @@ Retail transaction data (customer-level)
       Monetary (total spend)
 3. Quartile-based RFM Scoring
 4. Customer Segment Classification
-       High Value / Loyal; At Risk; New/Promosing; Low Engagement
+       Champions; At Risk; Promosing; Dormant
 5. Interactive Dashboard (Tableau Public)
 
 
 📈 Key Insights
-• High Value / Loyal customers contributed ~38% of total revenue.
+• Champions contributed ~38% of total revenue.
 • At-Risk customers represented ~31% of revenue, indicating significant win-back opportunity.
 • Revenue concentration analysis showed behavioral clustering across RFM quadrants.
 • Customer lifecycle positioning enables targeted marketing allocation.
